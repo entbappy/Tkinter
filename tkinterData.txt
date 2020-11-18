@@ -1,0 +1,21 @@
+Name:Bappy Ahmed
+Profession:Data Scientist
+Sex:Male
+Phone:
+Payment:Paypal
+Agree:1
+
+Name:Bappy Malik
+Profession:Engineer
+Sex:Male
+Phone:
+Payment:Paypal
+Agree:1
+
+Name:dd
+Profession:dde
+Sex:e3
+Phone:4
+Payment:4
+Agree:0
+
